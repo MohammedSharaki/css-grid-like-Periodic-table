@@ -1,0 +1,121 @@
+body{
+    background-color: #171F26;
+    font-size: 30px;
+    transition: 1s all ease-in-out;
+}
+div{
+    transition: 1s all ease-in
+}
+.all{
+    width: 700px;
+    height: 100%;
+    margin: 50px auto;
+    background-color: sandybrown;
+    padding-top: 0;
+}
+.line{
+    width: 700px;
+    background-color: sandybrown;
+    margin: 0;
+}
+.one-line{
+    width: 150px;
+    height: 70px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    float: left;
+}
+.one-line div{
+    width: 80px;
+    height: 50px;
+    margin: 10px;
+    color: yellow;
+    border: yellow solid 3px;
+}
+.one-line div:hover{
+    background-color: yellow;
+    color: black;
+}
+
+p{
+    margin: 5px 7px;
+}
+.one-line-1{
+    height: 70px;
+    margin: 10px;
+    display: flex;
+    float: right;
+
+}
+.one-line-1 div{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    color: yellowgreen;
+    border: yellowgreen solid 3px;
+}
+.one-line-1 div:hover{
+    background-color: yellowgreen;
+    color: black;
+}
+.two-line{
+    width: 680px;
+    height: 70px;
+    margin: 10px;
+    display: flex;
+    float: right;
+    justify-content: space-around;
+   
+}
+.two-line div{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    color: violet;
+    border: violet solid 3px;
+}
+.two-line div:hover{
+    background-color: violet;
+    color: black;
+}
+.three-line{
+    width: 680px;
+    height: 70px;
+    margin: 10px;
+    display: flex;
+    float: right;
+    justify-content: space-around;
+   
+}
+.three-line div{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    color: pink;
+    border: pink solid 3px;
+}
+.three-line div:hover{
+    background-color: pink;
+    color: black;
+}
+.four-line{
+    width: 680px;
+    height: 70px;
+    margin: 10px;
+    display: flex;
+    float: right;
+    justify-content: center;
+   
+}
+.four-line div{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    color: #49828C;
+    border: #49828C solid 3px;
+}
+.four-line div:hover{
+    background-color: #49828C;
+    color: black;
+}
